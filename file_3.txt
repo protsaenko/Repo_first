@@ -1,0 +1,3 @@
+this is a new change to staged new file
+New line to check diff
+one more line (file already has staged vwrsion and newer version with unstaged changes)
