@@ -2,3 +2,4 @@ This is a ususal file - first line
 This is the first change for tracked file
 Second change  - for already staged
 One more change
+this change is not going to be commited
