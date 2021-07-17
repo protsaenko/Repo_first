@@ -1,3 +1,7 @@
 new line to check diff (file is currently staged
 this is the test for line endings
-)
+
+
+
+
+this is the change from master
